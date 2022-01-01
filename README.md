@@ -8,7 +8,7 @@ https://flaskmlpraktikum.herokuapp.com/
 ![WhatsApp Image 2022-01-01 at 16 48 37](https://user-images.githubusercontent.com/49096980/147848062-1acedb75-55af-46ea-9600-b7015ce38229.jpeg)
 
 ## Deskripsi Dataset 
-Dalam penyusunan dataset ini menggunakan dataset yang didapatkan dari kaggle [FaceMask](https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset) yang terdiri dari :
+Dalam penyusunan dataset ini menggunakan dataset yang didapatkan dari kaggle [FaceMask](https://www.kaggle.com/vijaykumar1799/face-mask-detection) yang terdiri dari :
 1. mask_weared_incorrect
 2. with_mask
 3. without_mask
