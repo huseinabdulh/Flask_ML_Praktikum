@@ -15,6 +15,7 @@ Dalam penyusunan dataset ini menggunakan dataset yang didapatkan dari kaggle [Fa
 
 ## Paper Referensi
 A survey on 3D mask presentation attack detection and countermeasures
+
 Loey, M., Manogaran, G., Taha, M. H. N., & Khalifa, N. E. M. (2021). A hybrid deep transfer learning model with machine learning methods for face mask detection in the era of the COVID-19 pandemic. Measurement, 167, 108288. doi: https://doi.org/10.1016/j.measurement.2020.108288
 
 ## Contributor
